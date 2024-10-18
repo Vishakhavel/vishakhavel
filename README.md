@@ -1,24 +1,26 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm [Vishak]! 👋
 
-I'm a passionate **UI Developer** with **2 years** of experience building engaging and efficient web applications. My core skills include **React**, **JavaScript**, **Node.js**, and **AWS**, which I leverage to craft dynamic and scalable solutions.
+I'm a passionate **UI Developer** with **2 years** of experience building engaging and efficient web applications.
+My core skills include **React**, **JavaScript**, **Node.js**, and **AWS**, which I leverage to craft dynamic and scalable solutions.
 
 ---
 
 ## 🔧 **Technologies & Tools I Use**
 
 ### Frontend:
-- **React.js** (Hooks, Context API)
+- **React.js** (Redux, React Testing Library)
 - **JavaScript** (ES6+)
 - **HTML5** & **CSS3**
 - **Material UI** & **Tailwind CSS**
 
 ### Backend:
 - **Node.js** (Express.js)
-- **API Development** (RESTful, GraphQL)
+- **FastAPI** (bcrypt, sqlalchemy, psycopg2)
+- **Spring** (Spring Security)
   
 ### Cloud & DevOps:
 - **AWS** (Lambda, DynamoDB, S3, EC2)
-- **CI/CD** (GitHub Actions, AWS CodePipeline)
+- **CI/CD** (AWS CodePipeline)
 
 ### Database:
 - **PostgreSQL**
@@ -26,31 +28,28 @@ I'm a passionate **UI Developer** with **2 years** of experience building engagi
 
 ---
 
-## 🛠 **What I'm Currently Working On**
-- **Car as a Service** project – A full stack platform using React and Express, integrating real-time sensor data from vehicles.
-- **Logistics Data Management System** – Using React, Express, and GraphQL for handling large datasets efficiently.
-
----
-
 ## 🌱 **What I'm Learning**
 - Advanced **TypeScript** for building robust applications.
+- Django
+- React Native/Expo
+- Data Structures and Algorithms for coding interviews
 - Experimenting with **AI** and **machine learning** tools for UI/UX personalization.
 
 ---
 
 ## 📫 **Get in Touch**
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin)
-- **Portfolio**: [Your Portfolio](https://your-portfolio.com)
+- **Email**: [your.email@example.com](mailto:vishakhavel@gmail.com)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/vishakhavel)
+- **Portfolio**: [Your Portfolio](https://portfolio.vishakhavel.com/)
 
 ---
 
 ## 🚀 **My Projects**
 
-### **Project 1**: [PitchCraft](https://github.com/your-github/pitchcraft)  
-An AI-powered pitch evaluation software that won second place in the 'AI for RevOps' hackathon.
+### **Rubberband**: [PitchCraft](https://github.com/vishakhavel/rubberband)  
+A UBAC blob storage API suite, with file sharing, trash recovery and multi-part file upload, built with FastAPI.
 
-### **Project 2**: [Logistics Data Management System](https://github.com/your-github/logistics-data)  
+### **PitchCraft**: [Logistics Data Management System](https://github.com/vishakhavel/pitchcraft)  
 A platform to manage logistics data using React, Express, and GraphQL.
 
 ---
