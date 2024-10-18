@@ -1,4 +1,4 @@
-# Hi there, I'm [Vishak]! 👋
+# Hi there, I'm Vishak! 👋
 
 I'm a passionate **UI Developer** with **2 years** of experience building engaging and efficient web applications.
 My core skills include **React**, **JavaScript**, **Node.js**, and **AWS**, which I leverage to craft dynamic and scalable solutions.
