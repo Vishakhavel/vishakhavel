@@ -38,9 +38,9 @@ My core skills include **React**, **JavaScript**, **Node.js**, and **AWS**, whic
 ---
 
 ## 📫 **Get in Touch**
-- **Email**: [your.email@example.com](mailto:vishakhavel@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/vishakhavel)
-- **Portfolio**: [Your Portfolio](https://portfolio.vishakhavel.com/)
+- **Email**: [vishakhavel@gmail.com](mailto:vishakhavel@gmail.com)
+- **LinkedIn**: [Linkedin/vishakhavel](https://www.linkedin.com/in/vishakhavel)
+- **Portfolio**: [vishakhavel.com](https://portfolio.vishakhavel.com/)
 
 ---
 
