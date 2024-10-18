@@ -46,10 +46,10 @@ My core skills include **React**, **JavaScript**, **Node.js**, and **AWS**, whic
 
 ## 🚀 **My Projects**
 
-### **Rubberband**: [PitchCraft](https://github.com/vishakhavel/rubberband)  
+### **Rubberband**: [repo](https://github.com/vishakhavel/rubberband)  
 A UBAC blob storage API suite, with file sharing, trash recovery and multi-part file upload, built with FastAPI.
 
-### **PitchCraft**: [Logistics Data Management System](https://github.com/vishakhavel/pitchcraft)  
+### **PitchCraft**: [repo](https://github.com/vishakhavel/pitchcraft)  
 A platform to manage logistics data using React, Express, and GraphQL.
 
 ---
