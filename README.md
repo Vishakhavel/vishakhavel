@@ -9,6 +9,7 @@ My core skills include **React**, **JavaScript**, **Node.js**, and **AWS**, whic
 
 ### Frontend:
 - **React.js** (Redux, React Testing Library)
+- React Native (Expo)
 - **JavaScript** (ES6+)
 - **HTML5** & **CSS3**
 - **Material UI** & **Tailwind CSS**
