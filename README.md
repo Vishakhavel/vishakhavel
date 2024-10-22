@@ -8,9 +8,8 @@ My core skills include **React**, **JavaScript**, **Node.js**, and **AWS**, whic
 ## 🔧 **Technologies & Tools I Use**
 
 ### Frontend:
-- **React.js** (Redux, React Testing Library)
-- React Native (Expo)
-- **JavaScript** (ES6+)
+- **React.js, Next.js, Expo** (Redux, React Testing Library)
+- **JavaScript, Typescript, Python** (ES6+)
 - **HTML5** & **CSS3**
 - **Material UI** & **Tailwind CSS**
 
@@ -18,6 +17,7 @@ My core skills include **React**, **JavaScript**, **Node.js**, and **AWS**, whic
 - **Node.js** (Express.js)
 - **FastAPI** (bcrypt, sqlalchemy, psycopg2)
 - **Spring** (Spring Security)
+- **Django**
   
 ### Cloud & DevOps:
 - **AWS** (Lambda, DynamoDB, S3, EC2)
