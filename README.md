@@ -51,7 +51,7 @@ My core skills include **React**, **JavaScript**, **Node.js**, and **AWS**, whic
 A UBAC blob storage API suite, with file sharing, trash recovery and multi-part file upload, built with FastAPI.
 
 ### **PitchCraft**: [repo](https://github.com/vishakhavel/pitchcraft)  
-A platform to manage logistics data using React, Express, and GraphQL.
+A platform that evaluates your pitches, built with gpt-4o, Claude Sonnet, Next.js and FastAPI.
 
 ---
 
