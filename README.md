@@ -8,31 +8,31 @@ My core skills include **React**, **JavaScript**, **Node.js**, and **AWS**, whic
 ## 🔧 **Technologies & Tools I Use**
 
 ### Frontend:
-- **React.js, Next.js, Expo** (Redux, React Testing Library)
-- **JavaScript, Typescript, Python** (ES6+)
+- **React.js, Next.js** (Redux, Zustand, React Testing Library)
+- **JavaScript/Typescript** (ES6+)
 - **HTML5** & **CSS3**
 - **Material UI** & **Tailwind CSS**
 
 ### Backend:
 - **Node.js** (Express.js)
+- **SpringBoot** (Spring Security)
 - **FastAPI** (bcrypt, sqlalchemy, psycopg2)
-- **Spring** (Spring Security)
 - **Django**
   
 ### Cloud & DevOps:
 - **AWS** (Lambda, DynamoDB, S3, EC2)
 - **CI/CD** (AWS CodePipeline)
+- **Docker, Kubernetes**
 
 ### Database:
-- **PostgreSQL**
+- **PostgreSQL, MySQL**
 - **MongoDB**
 
 ---
 
 ## 🌱 **What I'm Learning**
-- Advanced **TypeScript** for building robust applications.
-- Django
-- React Native/Expo
+- Advanced **TypeScript** for frontend.
+- SpringBoot for microservices.
 - Data Structures and Algorithms for coding interviews
 - Experimenting with **AI** and **machine learning** tools for UI/UX personalization.
 
