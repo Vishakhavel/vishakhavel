@@ -1,10 +1,13 @@
 # Hi there, I'm Vishak! 👋
 
-I'm a **Full Stack Developer** with **2 years** of experience building engaging and efficient web applications.
-My core skills include **React**, **JavaScript**, **Node.js**, and **AWS**, which I leverage to craft dynamic and scalable solutions.
+I'm a **Full Stack Developer** with **2 years** of experience building engaging and efficient web applications and crafting high performance APIs.
+- Former Intern at Sony, where I was a Full Stack Developer, working with React/Node.js and AWS. Leveraged a state of the art, in-house computer vision pipeline to build a Viewership Analysis application that is used to gain insights from the TRP data of kids' shows from the channel - Sony YAY!
+- Former Frontend Developer at Bank of America - worked on websites used by millions of users everyday.
+- Former Full Stack Developer for the UI team at Capillary Technologies, where I built high performance client side applications using React, Node.js and AWS. On-call team mentor, and architect for the automation suites for all of Capillary's UI suite, reiterated smoke test suites till we achieved a 99.999% uptime.
+My core skills include **React/Next (Typescript)**, **Node.js (Express.js/Javascript)**, and **AWS**, which I leverage to build dynamic and scalable solutions.
 
 ---
-
+<!-- 
 ## 🔧 **Technologies & Tools I Use**
 
 ### Frontend:
@@ -29,6 +32,7 @@ My core skills include **React**, **JavaScript**, **Node.js**, and **AWS**, whic
 - **MongoDB**
 
 ---
+-->
 
 ## 🌱 **What I'm Learning**
 - Advanced **TypeScript** for frontend.
@@ -46,12 +50,13 @@ My core skills include **React**, **JavaScript**, **Node.js**, and **AWS**, whic
 ---
 
 ## 🚀 **My Projects**
+### Recently won the AI for RevOps hackathon, organized by HockeyStack - **PitchCraft**: [repo](https://github.com/vishakhavel/pitchcraft)  
+A platform that evaluates your pitches, built with gpt-4o, Claude Sonnet, Next.js and FastAPI.
 
 ### **Rubberband**: [repo](https://github.com/vishakhavel/rubberband)  
 A UBAC blob storage API suite, with file sharing, trash recovery and multi-part file upload, built with FastAPI.
 
-### **PitchCraft**: [repo](https://github.com/vishakhavel/pitchcraft)  
-A platform that evaluates your pitches, built with gpt-4o, Claude Sonnet, Next.js and FastAPI.
+
 
 ---
 
