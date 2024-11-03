@@ -2,7 +2,7 @@
 
 I'm a **Full Stack Developer** with **2 years** of experience building engaging and efficient web applications and crafting high performance APIs.
 - Former Intern at Sony, where I was a Full Stack Developer
-- -> Worked with React/Node.js and AWS. Leveraged a state of the art, in-house computer vision pipeline to build a Viewership Analysis application that is used to gain insights from the TRP data of kids' shows from the channel - Sony YAY!
+- Worked with React/Node.js and AWS. Leveraged a state of the art, in-house computer vision pipeline to build a Viewership Analysis application that is used to gain insights from the TRP data of kids' shows from the channel - Sony YAY!
 
 - Former Frontend Developer at Bank of America - worked on websites used by millions of users everyday.
 
