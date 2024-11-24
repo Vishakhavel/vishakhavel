@@ -44,7 +44,7 @@ My core skills include **React/Next (Typescript)**, **Node.js (Express.js/Javasc
 -->
 
 ## 🌱 **What I'm Learning**
-- Advanced **TypeScript** for frontend.
+- Advanced **TypeScript** and **GraphQL**.
 - Data Structures and Algorithms for coding interviews
 - Experimenting with **AI** and **machine learning** tools for UI/UX personalization.
 
