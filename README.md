@@ -3,14 +3,14 @@
 I'm a **Full Stack Developer** with **2 years** of experience building engaging and efficient web applications and crafting high performance APIs.
 
 
-- Former Frontend Developer at Bank of America
+Former Frontend Developer at Bank of America
 - Worked on modernizing legacy React codebases into modular ES6 compliant equivalents.
 
-- Former Full Stack Developer for the UI team at Capillary Technologies -
+Former Full Stack Developer for the UI team at Capillary Technologies -
 - Built high performance client side applications using React, Node.js and AWS.
 - On-call team mentor, and architect for the automation suites for all of Capillary's UI suite, reiterated smoke test suites till we achieved a 99.999% uptime.
 
-- Former Intern at Sony (Full Stack Developer)
+Former Intern at Sony (Full Stack Developer)
 - Worked with React/Node.js and AWS. Leveraged a state of the art, in-house computer vision pipeline to build a Viewership Analysis application that is used to gain insights from the TRP data of kids' shows from the channel - Sony YAY!
 
 My core skills include **React/Next (Typescript)**, **Node.js (Express.js/Javascript)**, and **AWS**, which I leverage to build dynamic and scalable solutions.
