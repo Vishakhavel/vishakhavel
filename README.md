@@ -1,2 +1,2 @@
-Frontend Engineer (Material UI Merchant).
-Read docs, write blogs.
+frontend engineer (Material UI Merchant).
+reada docs, writes blogs.
